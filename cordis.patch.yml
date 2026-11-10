@@ -1,0 +1,4 @@
+# Register the New workspace dialog plugin in the active DSH profile.
+- insert:
+    - id: dsh-new-workspace
+      name: dsh-new-workspace
